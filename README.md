@@ -1,2 +1,2 @@
-# RodWave-Radio
+# Rod-Wave-Radio
 Radio station
